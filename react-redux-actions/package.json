@@ -1,0 +1,23 @@
+{
+  "name": "react-redux-actions",
+  "version": "1.0.0",
+  "description": "简化redux action的使用",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/xwjie/react-redux-actions.git"
+  },
+  "keywords": [
+    "redux",
+    "action"
+  ],
+  "author": "xiaowenjie",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/xwjie/react-redux-actions/issues"
+  },
+  "homepage": "https://github.com/xwjie/react-redux-actions#readme"
+}
